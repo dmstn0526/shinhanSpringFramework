@@ -17,7 +17,7 @@
 	<dependencies>
 
  
-		<!-- 롬복라이브러리(자동으로 기본함수들 만들기) -->
+		<!-- 롬복라이브러리(자동으로 기본함수들 만들기  !!!!!!) -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
